@@ -1,0 +1,7 @@
+@Exception_Filters_HostAddress = http://localhost:5118
+
+
+###
+###
+GET {{Exception_Filters_HostAddress}}/api/document/12345
+ 
