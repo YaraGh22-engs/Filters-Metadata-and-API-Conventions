@@ -5,5 +5,5 @@
 ###
 GET {{Resource_Filters_HostAddress}}/api/products
 tenantId: TenantA
-x-api-key: TenantAKeys
+x-api-key: TenantAKey
  
