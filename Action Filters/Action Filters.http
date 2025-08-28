@@ -1,0 +1,6 @@
+@Action_Filters_HostAddress = http://localhost:5207
+
+ 
+
+###
+GET {{Action_Filters_HostAddress}}/api/products

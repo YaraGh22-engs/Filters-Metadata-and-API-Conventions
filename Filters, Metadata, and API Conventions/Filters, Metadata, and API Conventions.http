@@ -1,0 +1,6 @@
+@Filters__Metadata__and_API_Conventions_HostAddress = http://localhost:5201
+
+GET {{Filters__Metadata__and_API_Conventions_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
