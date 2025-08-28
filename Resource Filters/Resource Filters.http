@@ -1,0 +1,9 @@
+@Resource_Filters_HostAddress = http://localhost:5193
+
+
+###
+###
+GET {{Resource_Filters_HostAddress}}/api/products
+tenantId: TenantA
+x-api-key: TenantAKeys
+ 

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36401.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action Filters", "Action Filters\Action Filters.csproj", "{9E41CB35-C8C1-4D95-9D5B-E80B655C7CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resource Filters", "Resource Filters\Resource Filters.csproj", "{FD5D8933-60DA-458D-B88B-D28B1F5A3B10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9E41CB35-C8C1-4D95-9D5B-E80B655C7CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E41CB35-C8C1-4D95-9D5B-E80B655C7CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E41CB35-C8C1-4D95-9D5B-E80B655C7CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5D8933-60DA-458D-B88B-D28B1F5A3B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5D8933-60DA-458D-B88B-D28B1F5A3B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5D8933-60DA-458D-B88B-D28B1F5A3B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5D8933-60DA-458D-B88B-D28B1F5A3B10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
